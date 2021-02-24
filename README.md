@@ -5,7 +5,11 @@ This is a GitHub-Explorer App built using React.js. It searches and displays Git
 ![screencast](public/screencast.gif)
 <br>
 <br>
+<br>
+<br>
 <img src="public/ss1.png" width="70%" >
+<br>
+<br>
 <br>
 <br>
 <img src="public/ss2.png" width="70%" >
